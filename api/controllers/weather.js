@@ -1,10 +1,8 @@
 import util from "util";
-import * as DAO from "../daos/index.js";
 import * as Swagger from "./swagger.js";
 import API from "../utils/API.js";
 import apiConfig from "../config/apiConfig.js";
 
-const dao = DAO.getInstance("memory");
 const api = new API();
 
 import express from "express";
