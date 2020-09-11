@@ -1,7 +1,6 @@
-About
+Weather Rest API - Swagger
 =====
-
-Project showing how to setup Swagger for a REST API develop with Node.js and Express.
+Show current weather based on the zipcode, and also this allow to get weather based on the multiple zipcode.
 
 Installation
 ============
